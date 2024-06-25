@@ -1,4 +1,3 @@
-# Newton_Hardware_Scan_App
-To run reactjs app in Flask, follow following steps
-1- cd FlaskIntegration
+# analytics tree
+Please download the zip and unzip it and test it pls
 2- py app.py
